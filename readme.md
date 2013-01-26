@@ -26,7 +26,7 @@ Type the name prefixed with 'meme_' and hit TAB.
 	meme_zoidberg     => (Dr.) Zoidberg             => (\/) (°,,°) (\/)
 	meme_ccrowd       => Care Crowd 				=> (-(-_(-_-)_-)-)
 	meme_h5           => High Five					=> (/.__.)/ \(.__.\)
-	meme_idgas        => I Don't give a shoot		=> ╭∩╮（︶︿︶）╭∩╮
+	meme_gfy          => Go F Yourself		        => ╭∩╮（︶︿︶）╭∩╮
 	meme_koala        => Koala 						=> @( * O * )@
 	meme_sad          => Sad 						=> (✖╭╮✖)
 	meme_sigh         => Sigh                       => (╯_╰)
